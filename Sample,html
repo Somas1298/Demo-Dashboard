@@ -1,0 +1,6 @@
+<div  style="margin-left: 120px; margin-bottom: 20px;">
+            <label id="sts">Status</label>
+             <label id="plan">Plan Type</label>
+            <label id="acsiz">Account Size</label>
+            <label id="at">Account Type</label>
+          </div>
